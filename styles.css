@@ -344,3 +344,13 @@ header {
     height: 80px;
   }
 }
+.formas-pagamento {
+  margin-top: 3rem;
+  text-align: center;
+  font-weight: bold;
+  color: #eeedea;
+}
+.formas-pagamento p {
+  margin: 0.5rem 0;
+  line-height: 1.5;
+}
